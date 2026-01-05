@@ -1503,8 +1503,8 @@ Sure, here is the completion of the tables with pinyin and English translations.
 - [x] Write down the new grammar rules, including one example sentence per word, using the examples in the video
 - [x] Make Anki cards from each new word
 - [x] Run through today's Anki cards
-- [ ] ChatGPT quiz, 20 sentences
-- [ ] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
+- [x] ChatGPT quiz, 20 sentences
+- [x] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
 
 <https://www.youtube.com/watch?v=E0eJo6yTQCI>
 
@@ -1560,7 +1560,7 @@ Sure, here is the completion of the tables with pinyin and English translations.
 - [x] Make Anki cards from each new word
 - [x] Run through today's Anki cards
 - [x] ChatGPT quiz, 20 sentences
-- [ ] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
+- [x] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
 
 <https://www.youtube.com/watch?v=bpbGialC6vc>
 
@@ -1625,312 +1625,382 @@ Sure, here is the completion of the tables with pinyin and English translations.
 
 ## Chinese Hsk 3 Week 5 Lesson 5
 
-- [ ] Watch the YouTube Class, e2e
-- [ ] Write down the new words, including pinyin, chinese characters and english translations
-- [ ] Write down one example sentence per word, using the examples in the video
-- [ ] Write down the new grammar rules, including one example sentence per word, using the examples in the video
-- [ ] Make Anki cards from each new word
-- [ ] Run through today's Anki cards
-- [ ] ChatGPT quiz, 20 sentences
-- [ ] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
+- [x] Watch the YouTube Class, e2e
+- [x] Write down the new words, including pinyin, chinese characters and english translations
+- [x] Write down one example sentence per word, using the examples in the video
+- [x] Write down the new grammar rules, including one example sentence per word, using the examples in the video
+- [x] Make Anki cards from each new word
+- [x] Run through today's Anki cards
+- [x] ChatGPT quiz, 20 sentences
+- [x] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
 
-<URL>
+<https://www.youtube.com/watch?v=XKDsi8daD8c>
 
 ## New words, material
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 渴 | kě | thirsty |
+| 楼 | lóu | building/floor |
+| 聊天 | liáotiān | to chat |
+| 安静 | ānjìng | quiet |
+| 舒服 | shūfu | comfortable |
+| 面包 | miànbāo | bread |
+| 蛋糕 | dàngāo | cake |
+| 新鲜 | xīnxiān | fresh |
+| 相信 | xiāngxìn | to believe |
+| 尝 | cháng | to taste |
 
 ## Example sentences
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 我喜欢和他聊天。 | Wǒ xǐhuān hé tā liáotiān. | I like chatting with him. |
+| 我们去楼下的咖啡馆坐着聊聊天？ | Wǒmen qù lóuxià de kāfēiguǎn zuòzhe liáoliáotiān? | Shall we go to the café downstairs and have a chat? |
+| 他们的咖啡又好喝又便宜，我们去尝尝？ | Tāmen de kāfēi yòu hǎohē yòu piányi, wǒmen qù chángchang? | Their coffee is both tasty and cheap, shall we go have a taste? |
+| 这是我妈妈做的菜，快来尝尝！ | Zhè shì wǒ māma zuò de cài, kuài lái chángchang! | This is the dish my mom made, come quickly and have a taste! |
 
 ## New grammar rules
 
-### Rule 1
+### AAB verb reduplication, to express a short length of time and a relaxing tone.
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 聊聊天 | liáoliáotiān | to chat for a bit |
+| 吃吃饭 | chīchīfàn | to eat for a bit |
+| 上上网 | shàngshàngwǎng | to surf the internet for a bit |
+| 唱唱歌 | chàngchànggē | to sing for a bit |
+| 周末的时候， 我和朋友一起吃吃饭， 聊聊天， 上上网。 | Zhōumò de shíhou, wǒ hé péngyou yìqǐ chīchīfàn, liáoliáotiān, shàngshàngwǎng. | During the weekend, I eat, chat, and surf the internet with my friends. |
+| 不忙的是时候，我喜欢唱唱歌。 | Bù máng de shíhou, wǒ xǐhuān chàngchànggē. | When I'm not busy, I like to sing for a bit. |
 
-### Rule 2
-
-| Chinese | Pinyin | English |
-|--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-### Rule 3
+### AABB adj. duplication, to indicate a deep degree, usually with affection. It is often used for description.
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 高高的 | gāogāode | tall |
+| 大大的 | dàdàde | big |
+| 他的个子高高的，眼睛大大的，非常漂亮。 | Tā de gèzi gāogāode, yǎnjing dàdàde, fēicháng piàoliang. | He is tall, has big eyes, and is very handsome. |
+| 安安静静 | ān'ānjìngjìng | quiet |
+| 舒舒服服 | shūshūfúfú | comfortable |
 
-## New words, other
+### 一 + v1 + 就 + v2 (yī + v1 + jiù + v2, as soon as, no sooner... than...)
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 我一进门就看见他了。 | Wǒ yí jìnmén jiù kànjiàn tā le. | As soon as I entered the door, I saw him. |
+| 我一有机会就去这家咖啡馆。 | Wǒ yí yǒu jīhuì jiù qù zhè jiā kāfēiguǎn. | As soon as I have a chance, I go to this café. |
+| 他一来我就看见他了。 | Tā yí lái wǒ jiù kànjiàn tā le. | As soon as he came, I saw him. |
 
 ## Chinese Hsk 3 Week 6 Lesson 1
 
-- [ ] Watch the YouTube Class, e2e
-- [ ] Write down the new words, including pinyin, chinese characters and english translations
-- [ ] Write down one example sentence per word, using the examples in the video
-- [ ] Write down the new grammar rules, including one example sentence per word, using the examples in the video
-- [ ] Make Anki cards from each new word
-- [ ] Run through today's Anki cards
-- [ ] ChatGPT quiz, 20 sentences
-- [ ] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
+- [x] Watch the YouTube Class, e2e
+- [x] Write down the new words, including pinyin, chinese characters and english translations
+- [x] Write down one example sentence per word, using the examples in the video
+- [x] Write down the new grammar rules, including one example sentence per word, using the examples in the video
+- [x] Make Anki cards from each new word
+- [x] Run through today's Anki cards
+- [x] ChatGPT quiz, 20 sentences
+- [x] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
 
-<URL>
+<https://www.youtube.com/watch?v=R8HjmcRuZZA>
 
 ## New words, material
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 终于 | zhōngyú | finally |
+| 把 | bǎ | (particle marking the foll owing noun as a direct object) |
+| 打扫 | dǎsǎo | to clean |
+| 干净 | gānjìng | clean |
+| 最后 | zuìhòu | last, final |
+| 香蕉 | xiāngjiāo | banana |
+| 半 | bàn | half |
+| 饱 | bǎo | full (from eating) |
+| 盘子 | pánzi | plate |
 
 ## Example sentences
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 看了三天，这本书我终于看完了。 | kàn le sān tiān, zhè běn shū wǒ zhōngyú kàn wán le. | I finally finished reading this book after three days. |
+| 这些东西我们终于吃完了。 | zhèxiē dōngxi wǒmen zhōngyú chī wán le. | We finally finished eating these things. |
+| 我们一起把这打扫干净吧。 | wǒmen yīqǐ bǎ zhè dǎsǎo gānjìng ba. | Let's clean this up together. |
+| 这个房间很干净。 | zhège fángjiān hěn gānjìng. | This room is very clean. |
+| 半个面包 | bàn gè miànbāo | half a loaf of bread |
+| 半个小时 | bàn gè xiǎoshí | half an hour |
+| 十点半 | shí diǎn bàn | half past ten |
 
 ## New grammar rules
 
-### Rule 1
+### 把sth + verb + R/在 phrase (to express change in position or show the result of an action)
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 我把门打开。 | wǒ bǎ mén dǎkāi. | I opened the door. |
+| 我们把房间打扫干净。 | wǒmen bǎ fángjiān dǎsǎo gānjìng. | We cleaned the room. |
+| 我们把这些东西都放在盘子里。 | wǒmen bǎ zhèxiē dōngxi dōu fàng zài pánzi lǐ. | We put all these things on the plate. |
+| 你把盘子放在桌子上。 | nǐ bǎ pánzi fàng zài zhuōzi shàng. | You put the plate on the table. |
+| 你没把盘子放在桌子上。 | nǐ méi bǎ pánzi fàng zài zhuōzi shàng. | You didn't put the plate on the table. |
 
-### Rule 2
-
-| Chinese | Pinyin | English |
-|--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-### Rule 3
+### location + 有 + object (is used to indicate that there is something or somebody in some place)
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 教室里有几个学生。 | jiàoshì lǐ yǒu jǐ gè xuéshēng. | There are several students in the classroom. |
+| 包里有两本书。 | bāo lǐ yǒu liǎng běn shū. | There are two books in the bag. |
+| 桌子上还有最后一个香蕉和半个面包。 | zhuōzi shàng hái yǒu zuìhòu yí gè xiāngjiāo hé bàn gè miànbāo. | There is still the last banana and half a loaf of bread on the table. |
 
 ## New words, other
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 放 | fàng | to put |
+| 教室 | jiàoshì | classroom |
 
 ## Chinese Hsk 3 Week 6 Lesson 2
 
-- [ ] Watch the YouTube Class, e2e
-- [ ] Write down the new words, including pinyin, chinese characters and english translations
-- [ ] Write down one example sentence per word, using the examples in the video
-- [ ] Write down the new grammar rules, including one example sentence per word, using the examples in the video
-- [ ] Make Anki cards from each new word
-- [ ] Run through today's Anki cards
-- [ ] ChatGPT quiz, 20 sentences
-- [ ] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
+- [x] Watch the YouTube Class, e2e
+- [x] Write down the new words, including pinyin, chinese characters and english translations
+- [x] Write down one example sentence per word, using the examples in the video
+- [x] Write down the new grammar rules, including one example sentence per word, using the examples in the video
+- [x] Make Anki cards from each new word
+- [x] Run through today's Anki cards
+- [x] ChatGPT quiz, 20 sentences
+- [x] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
 
-<URL>
+<https://www.youtube.com/watch?v=dmi72lmCSVk>
 
 ## New words, material
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 叫外卖 | jiào wàimài | to order takeout |
+| 不但...而且... | bùdàn...érqiě... | not only... but also... |
+| 饿 | è | hungry |
+| 碗 | wǎn | bowl |
+| 啤酒 | píjiǔ | beer |
+| 筷子 | kuàizi | chopsticks |
 
 ## Example sentences
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 你饿了吗？ | Nǐ è le ma? | Are you hungry? |
+| 我一点也不饿，什么也不想吃。 | Wǒ yīdiǎn yě bù è, shénme yě bù xiǎng chī. | I am not hungry at all, I don't want to eat anything. |
 
 ## New grammar rules
 
-### Rule 1
+### 不但...而且... (bùdàn...érqiě..., not only... but also...)
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 这家饭馆的菜不但干净，而且便宜。 | Zhè jiā fànguǎn de cài bùdàn gānjìng, érqiě piányi. | The food in this restaurant is not only clean, but also cheap. |
+| 她不但聪明，而且漂亮！ | Tā bùdàn cōngmíng, érqiě piàoliang! | She is not only smart, but also beautiful! |
 
-### Rule 2
+### 只+能 (zhǐ + néng, can only)
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-### Rule 3
-
-| Chinese | Pinyin | English |
-|--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 我不饿，只能吃一碗面条。 | Wǒ bù è, zhǐ néng chī yī wǎn miàntiáo. | I am not hungry, I can only eat a bowl of noodles. |
+| 我上午没时间，只能下午给你打电话。 | Wǒ shàngwǔ méi shíjiān, zhǐ néng xiàwǔ gěi nǐ dǎ diànhuà. | I don't have time in the morning, I can only call you in the afternoon. |
 
 ## New words, other
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 菜单 | càidān | menu |
 
 ## Chinese Hsk 3 Week 6 Lesson 3
 
-- [ ] Watch the YouTube Class, e2e
-- [ ] Write down the new words, including pinyin, chinese characters and english translations
-- [ ] Write down one example sentence per word, using the examples in the video
-- [ ] Write down the new grammar rules, including one example sentence per word, using the examples in the video
-- [ ] Make Anki cards from each new word
-- [ ] Run through today's Anki cards
-- [ ] ChatGPT quiz, 20 sentences
+- [x] Watch the YouTube Class, e2e
+- [x] Write down the new words, including pinyin, chinese characters and english translations
+- [x] Write down one example sentence per word, using the examples in the video
+- [x] Write down the new grammar rules, including one example sentence per word, using the examples in the video
+- [x] Make Anki cards from each new word
+- [x] Run through today's Anki cards
+- [x] ChatGPT quiz, 20 sentences
 - [ ] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
 
-<URL>
+<https://www.youtube.com/watch?v=OjoroR7TPF4>
 
 ## New words, material
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 奇怪 | qíguài | strange |
+| 清楚 | qīngchǔ | clear, understandable |
+| 词典 | cídiǎn | dictionary |
+| 借 | jiè | to borrow/lend |
+| 马上 | mǎshàng | immediately, at once |
+| 还 | huán | to return |
 
 ## Example sentences
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 这个句子的意思我不清楚。 | Zhège jùzi de yìsi wǒ bù qīngchǔ. | I don't understand the meaning of this sentence clearly. |
+| 他说得很清楚，你明白了吗？ | Tā shuō de hěn qīngchǔ, nǐ míngbái le ma? | He spoke very clearly, did you understand? |
+| 你说话声音太小，我听不清楚。 | Nǐ shuōhuà shēngyīn tài xiǎo, wǒ tīng bù qīngchǔ. | Your voice is too low, I can't hear you clearly. |
+| 能把你的手机借给我吗？ | Néng bǎ nǐ de shǒujī jiè gěi wǒ ma? | Can you lend me your phone? |
+| 没问题，我一查完就马上还给你。 | Méi wèntí, wǒ yī chá wán jiù mǎshàng huán gěi nǐ. | No problem, I'll return it to you as soon as I finish checking. |
 
 ## New grammar rules
 
-### Rule 1
+### 什么都... (shénme dōu..., all/everything/every... is...)
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 用手机词典什么都能查到。 | Yòng shǒujī cídiǎn shénme dōu néng chá dào. | You can look up anything with a phone dictionary. |
+| 我吃什么都可以，你决定吧。 | Wǒ chī shénme dōu kěyǐ, nǐ juédìng ba. | I can eat anything, you decide. |
 
-### Rule 2
+### 马上 (mǎshàng, immediately, at once)
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-### Rule 3
-
-| Chinese | Pinyin | English |
-|--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 我的手机马上没电了。 | Wǒ de shǒujī mǎshàng méi diàn le. | My phone is about to run out of battery. |
+| 快坐好，电影马上开始了。 | Kuài zuò hǎo, diànyǐng mǎshàng kāishǐ le. | Sit down quickly, the movie is about to start. |
 
 ## New words, other
 
 | Chinese | Pinyin | English |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 句子 | jùzi | sentence |
+
+## Chinese Hsk 3 Week 6 Lesson 4
+
+- [x] Watch the YouTube Class, e2e
+- [x] Write down the new words, including pinyin, chinese characters and english translations
+- [x] Write down one example sentence per word, using the examples in the video
+- [x] Write down the new grammar rules, including one example sentence per word, using the examples in the video
+- [x] Make Anki cards from each new word
+- [x] Run through today's Anki cards
+- [x] ChatGPT quiz, 20 sentences
+- [x] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
+
+<https://www.youtube.com/watch?v=tBcxIS-dvo8>
+
+## New words, material
+
+| Chinese | Pinyin | English |
+|--|--|--|
+| 生气 | shēngqì | angry |
+| 笔记本 | bǐjìběn | notebook |
+| 还是 | háishì | had better |
+| 信用卡 | xìnyòngkǎ | credit card |
+| 被 | bèi | by (passive voice) |
+| 花 | huā | to spend |
+| 着急 | zháojí | anxious, worried |
+| 办法 | bànfǎ | method, way |
+| 一共 | yīgòng | in total |
+
+## Example sentences
+
+| Chinese | Pinyin | English |
+|--|--|--|
+| 别着急，我有一个好办法。 | Bié zháojí, wǒ yǒu yīgè hǎo bànfǎ. | Don't worry, I have a good idea. |
+| 时间还早，别着急。 | Shíjiān hái zǎo, bié zháojí. | It's still early, don't worry. |
+
+## New grammar rules
+
+### 不是...就是... (bùshì... jiùshì..., either... or...)
+
+| Chinese | Pinyin | English |
+|--|--|--|
+| 他不是在图书馆看书，就是在体育馆打球。 | Tā bùshì zài túshūguǎn kànshū, jiùshì zài tǐyùguǎn dǎqiú. | He is either reading in the library or playing ball in the gym. |
+| 我发现你不是手机有问题，就是电脑有问题。 | Wǒ fāxiàn nǐ bùshì shǒujī yǒu wèntí, jiùshì diànnǎo yǒu wèntí. | I find that either your phone has a problem or your computer has a problem. |
+
+### 还是 (háishì, had better)
+
+| Chinese | Pinyin | English |
+|--|--|--|
+| 我还是骑车去吧，打车太贵了。 | Wǒ háishì qíchē qù ba, dǎchē tài guì le. | I had better ride my bike, taking a taxi is too expensive. |
+| 你还是买个新电脑吧。 | Nǐ háishì mǎi gè xīn diànnǎo ba. | You had better buy a new computer. |
+
+### 被 (bèi, passive voice, something is done by someone, object is being/has been + verb + by + subject)
+
+| Chinese | Pinyin | English |
+|--|--|--|
+| 你的自行车呢？ | Nǐ de zìxíngchē ne? | Where is your bicycle? |
+| 被我借给我姐姐了。 | Bèi wǒ jiè gěi wǒ jiějiě le. | It was borrowed by me to my sister. |
+| 我信用卡里的钱已经快被我花完了。 | Wǒ xìnyòngkǎ lǐ de qián yǐjīng kuài bèi wǒ huā wán le. | The money on my credit card has almost been spent by me. |
+
+## New words, other
+
+| Chinese | Pinyin | English |
+|--|--|--|
+| 打车 | dǎchē | to take a taxi |
+
+## Chinese Hsk 3 Week 6 Lesson 5
+
+- [x] Watch the YouTube Class, e2e
+- [x] Write down the new words, including pinyin, chinese characters and english translations
+- [x] Write down one example sentence per word, using the examples in the video
+- [x] Write down the new grammar rules, including one example sentence per word, using the examples in the video
+- [x] Make Anki cards from each new word
+- [x] Run through today's Anki cards
+- [x] ChatGPT quiz, 20 sentences
+- [x] Rewatch the YouTube Class, e2e, and focus on understanding everything. Write down new words in a separate table.
+
+<https://www.youtube.com/watch?v=1_9HIP_IEZk>
+
+## New words, material
+
+| Chinese | Pinyin  | English    |
+|---------|---------|------------|
+| 阿姨    | āyí     | aunt       |
+| 起飞    | qǐfēi   | to take off |
+| 坏      | huài    | bad        |
+| 刻      | kè      | measure word, quarter (of an hour) |
+| 放心    | fàngxīn | to rest assured |
+| 接      | jiē     | to pick up (someone) |
+| 辆      | liàng   | measure word for vehicles |
+| 司机    | sījī    | driver     |
+| 护照    | hùzhào  | passport   |
+| 照顾    | zhàogu  | to take care of |
+| 自己    | zìjǐ    | oneself    |
+
+## Example sentences
+
+| Chinese | Pinyin | English |
+|--|--|--|
+| 四点一刻 | sì diǎn yī kè | 4:15 |
+| 差一刻六点 | chà yī kè liù diǎn | 5:45 |
+| 我去机场接阿姨。| wǒ qù jīchǎng jiē āyí. | I am going to the airport to pick up my aunt. |
+| 你什么时候来接我？| nǐ shénme shíhòu lái jiē wǒ? | When are you coming to pick me up? |
+| 我一接到阿姨就给你打电话。| wǒ yī jiē dào āyí jiù gěi nǐ dǎ diànhuà. | I will call you as soon as I pick up my aunt. |
+| 你要好好照顾自己。| nǐ yào hǎohǎo zhàogu zìjǐ. | You need to take good care of yourself. |
+| 我不在家的时候，你可以帮我照顾我的猫吗？| wǒ bù zài jiā de shíhòu, nǐ kěyǐ bāng wǒ zhàogu wǒ de māo ma? | Can you help take care of my cat when I am not home? |
+
+## New grammar rules
+
+### 把sth + verb + R/在 phrase (to express change in position or show the result of an action) (review)
+
+| Chinese | Pinyin | English |
+|--|--|--|
+| 我把门打开。 | wǒ bǎ mén dǎkāi. | I opened the door. |
+| 我们把房间打扫干净。 | wǒmen bǎ fángjiān dǎsǎo gānjìng. | We cleaned the room. |
+| 我们把这些东西都放在盘子里。 | wǒmen bǎ zhèxiē dōngxi dōu fàng zài pánzi lǐ. | We put all these things on the plate. |
+| 你把盘子放在桌子上。 | nǐ bǎ pánzi fàng zài zhuōzi shàng. | You put the plate on the table. |
+| 你没把盘子放在桌子上。 | nǐ méi bǎ pánzi fàng zài zhuōzi shàng. | You didn't put the plate on the table. |
+
+### location + 有 + object (is used to indicate that there is something or somebody in some place) (review)
+
+| Chinese | Pinyin | English |
+|--|--|--|
+| 教室里有几个学生。 | jiàoshì lǐ yǒu jǐ gè xuéshēng. | There are several students in the classroom. |
+| 包里有两本书。 | bāo lǐ yǒu liǎng běn shū. | There are two books in the bag. |
+| 桌子上还有最后一个香蕉和半个面包。 | zhuōzi shàng hái yǒu zuìhòu yí gè xiāngjiāo hé bàn gè miànbāo. | There is still the last banana and half a loaf of bread on the table. |
+
+### 被 (bèi, passive voice, something is done by someone, object is being/has been + verb + by + subject) (review)
+
+| Chinese | Pinyin | English |
+|--|--|--|
+| 你的自行车呢？ | Nǐ de zìxíngchē ne? | Where is your bicycle? |
+| 被我借给我姐姐了。 | Bèi wǒ jiè gěi wǒ jiějiě le. | It was borrowed by me to my sister. |
+| 我信用卡里的钱已经快被我花完了。 | Wǒ xìnyòngkǎ lǐ de qián yǐjīng kuài bèi wǒ huā wán le. | The money on my credit card has almost been spent by me. |
+
+## New words, other
+
+| Chinese | Pinyin | English |
+|--|--|--|
+| 出租车 | chūzū chē | taxi |

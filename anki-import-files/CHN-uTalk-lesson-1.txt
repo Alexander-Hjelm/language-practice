@@ -1,0 +1,40 @@
+Yes, please;"好的，谢谢
+hǎo de, xiè xiè"
+No, thanks;"不用，谢谢
+bù yòng, xiè xiè"
+Thank you very much;"非常感谢
+fēi cháng gǎn xiè"
+I would like to order xyz;"我想要 xyz
+wǒ xiǎng yào xyz"
+bus;"公交车
+gōng jiāo chē"
+car;"汽车
+qì chē"
+airport;"机场
+jī chǎng"
+hotel;"宾馆
+bīn guǎn"
+passport;"护照
+hù zhào"
+excuse me;"不好意思
+bù hǎo yì si"
+What time is it?;"几点了?
+jǐ diǎn le?"
+map;"地图
+dì tú"
+paracetamol;"扑热息痛
+pū rè xī tòng"
+cash machine;"取款机
+qǔ kuǎn jī"
+credit card;"信用卡
+xìn yòng kǎ"
+beach;"沙滩
+shā tān"
+toilet/bathroom;"卫生间
+wèi shēng jiān"
+Can you repeat that please?;"请再说一遍好吗?
+qǐng zài shuō yī biàn hǎo ma?"
+Please speak more slowly;"请说慢一点
+qǐng shuō màn yī diǎn"
+well done;"做得好
+zuò de hǎo"

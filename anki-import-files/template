@@ -1,0 +1,6 @@
+convert this list to the following format, where there is a newline between the two lines:
+
+[english word];"[mandarin word]
+[pinyin]"
+
+here is the list:

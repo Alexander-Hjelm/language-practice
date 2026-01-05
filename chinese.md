@@ -1524,6 +1524,7 @@ https://www.hackingchinese.com/kickstart-your-character-learning-with-the-100-mo
 | 日假期 | Rì jiàqī | vacation day |
 | 葡萄牙 | Pútáoyá | portugal |
 | 西班牙 | Xībānyá | spain |
+| 飞盘 | feipan | frisbee |
 
 2024-01-02 (HSK3/4 stories)
 ---------------------------
@@ -1859,5 +1860,5 @@ https://www.hackingchinese.com/kickstart-your-character-learning-with-the-100-mo
 | 老婆    | lǎopó | wife |
 | 老家    | lǎojiā | hometown |
 | 洗碗    | xǐwǎn | to wash dishes |
-
+| 提醒    | tixing | reminder |
 https://en.wikipedia.org/wiki/List_of_loanwords_in_Chinese

@@ -1,4 +1,3 @@
-
 |  |  |  |
 |-|-|-|
 | 我 | wo | I/me |
@@ -44,17 +43,14 @@
 | 爬 | pa | to climb |
 | 走 | zou | to walk |
 | 微笑 | wei xiao | to smile |
-| 明白 | ming bai | to understand |
 | 起 | qi | to rise |
 | 出来 | chu lai | to come out |
-| 种 | zhong | to grow/plant/farm |
-| 像 | xiang | to be like |
+| 种 | zhong | to grow/plant/farm,type/kind |
 | 出去 | chu qu | to go outside |
 | 来 | lai | to come |
 | 唱 | chang | to sing |
 | 问 | wen | to ask |
 | 玩 | wan | to play |
-| 刷牙 | shua ya | to brush one's teeth |
 | 喝 | he | to drink |
 | 跳舞 | tiao wu | to dance |
 | 炒 | chao | to pan fry |
@@ -64,8 +60,6 @@
 | 使用 | shi yong | to use |
 | 给 | gei | to give/for |
 | 学习 | xuexi | to study |
-| 忘记 | wang ji | to forget |
-| 关于 | guan yu | to be about |
 | 找 | zhao | to look for |
 | 出 | chu | to go |
 | 去 | qu | to go/to go away |
@@ -90,15 +84,11 @@
 | 中 | zhong | middle/between |
 | 热 | re | hot |
 | 新 | xin | new |
-| 绿色的 | lu se de | green colored |
 | 里 | li | inside |
-| 胖的 | pang de | fat |
 | 高 | gao | tall |
 | 薄的 | bao de | skinny/thin |
-| 甜 | tian | sweet |
 | 酸 | suan | sour |
 | 有趣 | you qu | fun/funny, interesting |
-| 老 | lao | old |
 | 好吃 | hao chi | yummy/delicious |
 | 怕 | pa | fear/afraid |
 | 笨 | ben | stupid/silly |
@@ -106,13 +96,11 @@
 | 也 | ye | too, also |
 | 下 | xia | below, under |
 | 多 | duo | many, much, numerous |
-| 简单 | jian dan | easy |
 | 困难 | kun nan | hard/difficult |
 | 不对 | bu dui | wrong |
 | 真可怕 | zhen ke pa | terrible/horrible |
 | 开心 | kaixin | happy |
 | 美 | mei | beautiful |
-| 矮 | ai | short |
 | 倒 | dao | upside-down |
 | 备好了 | bei hao le | ready |
 | 圆 | yuan | round |
@@ -167,8 +155,6 @@
 | 对吧? | dui ba | ...right? |
 | 没问题 | mei wen ti | no problem (when asked for a favour or after thanks) |
 | 没关系 | mei guan chi | no problem (when someone has apologized), nevermind |
-| 我很渴 | wo hen ke | I am thirsty |
-| 我饱了 | wo bao le | I am full |
 | 这个太X了 | zhe ge tai X le | this is too X |
 | X呢? | X ne? | What about X? |
 | X在哪里呢？| X zai na li ne | Where is/are X? |
@@ -188,7 +174,6 @@
 | 哇 | wa | wow |
 | 哎呀 | ai ya | oops |
 | 什么鬼？| shen me gui | what the fuck? |
-| 马 | ma | Horse |
 | 狗 | gou | dog |
 | 猫 | mao | cat |
 | 牛 | niu | cow |
@@ -204,7 +189,6 @@
 | 狼 | lang | wolf |
 | 熊 | xiong | bear |
 | 熊猫 | xiong mao | panda |
-| 鸟 | niao | bird |
 | 龙 | long | dragon |
 | 鱼 | yu | fish |
 | 兔子 | tu zi | rabbit/bunny |
@@ -217,27 +201,19 @@
 | 杯 | bei | cup |
 | 胡萝卜 | hu luo bo | carrot |
 | 辣 | la | spicy |
-| 蛋糕 | dan gao | cake |
 | 洋葱 | yang cong | onion |
 | 黄瓜 | huang gua | cucumber |
 | 食物 | shi wu | food |
 | 奶 | nai | milk |
 | 冰淇淋 | bing qi lin | ice cream |
 | 冰 | bing | ice |
-| 啤酒 | pi jiu | beer |
-| 我很饿 | wo hen e | I am hungry |
-| 口 | kou | mouth |
 | 雞雞 | jiji | penis |
 | 咪咪 | mimi | boobs |
 | 脑 | nao | brain |
 | 屁股 | pi gu | butt |
 | 胡须 | hu xi | beard/moustache |
-| 鼻子 | bi zi | nose |
-| 头发 | tou fa | hair |
 | 心 | xin | heart |
-| 脚 | jiao | foot |
 | 牙 | ya | tooth/teeth |
-| 脸 | lian | face |
 | 手 | shou | hand |
 | 晚饭 | wan fan | dinner |
 | 比萨 | bi sa | pizza |
@@ -259,7 +235,6 @@
 | 番茄酱 | fan qie jiang | ketchup |
 | 桃子 | tao zi | peach |
 | 米 | mi | rice |
-| 面包 | mian bao | bread |
 | 水果 | shui guo | fruit |
 | 面 | mian | noodles |
 | 饼 | bing | pie/cake |
@@ -279,7 +254,6 @@
 | 子 | zi | child/son |
 | 姐姐 | jie jie | elder sister |
 | 爷爷 | ye ye | grandpa |
-| 奶奶 | nai nai | grandma |
 | 老师 | lao shi | teacher |
 | 同学 | tong xue | classmate |
 | 学生 | xue sheng | student |
@@ -313,11 +287,9 @@
 | 书桌 | shūzhuō | desk |
 | 床 | chuang | bed |
 | 公寓 | gong yu | apartment |
-| 冰箱 | bing xiang | fridge |
 | 马桶 | ma tong | toilet |
 | 沙发 | sha fa | sofa |
 | 衣服 | yi fu | clothes/clothing |
-| 裙子 | qun zi | skirt |
 | T恤 | T xu | T-shirt |
 | 裤子 | ku zi | pants |
 | 夹克 | jia ke | jacket |
@@ -327,7 +299,6 @@
 | 白 | bai | white |
 | 黑 | hei | black |
 | 红 | hong | red |
-| 蓝 | lan | blue |
 | 素食 | su shi | vegetarian food |
 | 寿司 | shou si | sushi |
 | 作画 | zuohua | to paint |
@@ -343,22 +314,18 @@
 | 火锅 | huoguo | hotpot |
 | 不用谢 | bu yong xie | you are welcome |
 | 完 | wan | finish/complete |
-| 聊天 | liao tian | to chat/chatter |
 | 已经 | yijing | already |
 | 弟弟 | didi | younger brother |
 | 妹妹 | meimei | younger sister |
 | 级 | ji | level/rank/class |
 | 放松 | fangsong | to relax |
-| 欢迎 | huanying | welcome |
 | 进入 | jinru | to join/enter |
 | 看我干吗? | kan wo ganma? | What do you want? What are you looking at me for? |
 | 北极熊 | beijixiong | polar bear |
 | 极 | bei | pole/top |
 | 北极 | bei ji | arctic/north pole |
 | 企鹅 | qi'e | penquin |
-| 历史 | lishi | history |
 | 就 | jiu | it/that, then/at once |
-| 再次 | zaici | again |
 | 经常 | jingchang | often |
 | 一些 | yixie | a little/a little bit |
 | 准备 | zhunbei | prepare |
@@ -411,7 +378,6 @@
 | 都 | dou | all (as in "they are all X") |
 | 正在 | zheng zai | is/are in the process of |
 | 请吧X | qing X | please X (command)... |
-| 越大越大 | yue da yue da | bigger and bigger |
 | 忽然 | hu ran | suddenly |
 | 还在 | hai zai | still |
 | 外面 | wai mian | outside/outdoors |
@@ -424,7 +390,6 @@
 | 一下 | yi xia | one moment |
 | 好了 | hao le | all right |
 | 钥匙 | yao shi | key |
-| 突然 | tu ran | suddenly |
 | 哦 | o | final particle indicating friendliness/warmness |
 | 一点 | yi dian | a little bit |
 | 应该 | ying gai | should |
@@ -435,14 +400,12 @@
 | 嘎嘎 | ga ga | quack  |
 | 正在下雨 | zhengzai xia yu | It is raining |
 | 下雪 | xia xue | snowing |
-| 需要 | xu yao | to need |
 | 更X的 | geng X de | adjective modifier (big > bigger, small > smaller) |
 | 最X的 | zui X de | adjective modifier (big > biggest, small > smallest) |
 | 冷 | leng | cold |
 | 农场 | nongchang | farm |
 | 睡觉 | shui jiao | to sleep |
 | 早上好 | zao shang hao | good morning |
-| 还是 | hai shi | or/still |
 | 课堂 | ketang | class room |
 | 不好 | bu hao | bad, not good |
 | 饼干 | binggan | cookies |
@@ -480,13 +443,11 @@
 | 工 | gong | job/work |
 | 水 | shui | water |
 | 毛 | mao | animal hair/fur |
-| 草 | cao | grass |
 | 火 | huo | fire |
 | 书 | shu | book |
 | 家 | jia | home |
 | 屎 | shi | shit/poop |
 | 樱花 | ying hua | cherry blossom |
-| 花 | hua | flower |
 | 包 | bao | bag/to wrap |
 | 蜡笔 | la bi | crayon |
 | 事情 | shiqing | thing/matter |
@@ -506,10 +467,8 @@
 | 行李 | xing li | luggage |
 | 吉他 | ji ta | guitar |
 | 威士忌酒 | wei shi ji jiu | whisky |
-| 船 | chuan | boat |
 | 坐 | zuo | to sit, by/with (to go by a means of transportation) |
 | X坐Y去 | X zuo Y qu | X go/goes by Y (transportation) |
-| 邻居 | linju | neighbour |
 | 嘴巴 | zuiba | mouth |
 | 觉得 | juede | to think/feel |
 | 哪个 | na ge | which |
@@ -546,7 +505,6 @@
 | 让我们X | rang women X | let us X |
 | 足球 | zuqiu | football |
 | 球 | qiu | ball |
-| 半 | ban | one half (unit) |
 | 起来 | qi lai | looks like/sounds like |
 | 健康 | jiankang | healthy |
 | 水豚 | Shuǐ tún | capybara |
@@ -559,7 +517,6 @@
 | 越南 | Yuènán | Tietnam |
 | 韩国 | Hánguó | Korea |
 | 叉子 | Chāzi | fork |
-| 盘子 | Pánzi | plate |
 | 筷子 | Kuàizi | chopsticks |
 | 意大利面 | Yìdàlì miàn | Spaghetti |
 | 意大利 | Yìdàlì | Italy |
@@ -591,16 +548,14 @@
 | 物 | wu | object |
 | X的时候 | de shihou | when/while doing X |
 | 年龄 | nianling | age |
-| 树 | shu | tree |
 | 某 | mou | some, certain |
 | 可 | ke | to be able, can, may |
 | 如 | ru | like, as, if |
 | 果 | guo | fruit |
 | 房 | fang | room, house |
-| 自 | zi | self |
+| 自 | zi |
 | 点 | dian | point, dot, bit, feature, to burn, to light |
 | 发 | fa | to send, to emit, to release, hair |
-| 嘴 | zui | mouth |
 | 语 | yu | speech, language, dialect |
 | 么 | me | what, interrogative particle |
 | 好 | hao | good, fine |
@@ -611,7 +566,7 @@
 | 学 | xue | to learn, school, knowledge |
 | 衣 | yi | clothes, cover, skin |
 | 这 | zhe | this |
-| 过 | guo | to pass, to pass through |
+| 过 | guo | to pass, to pass through, to spend, to celebrate |
 | 酒 | jiu | wine, spirits, alcoholic beverage |
 | 时 | shi | time, season, age, period |
 | 怎么了? | zenmele | What's wrong? |
@@ -662,7 +617,6 @@
 | 珍珠奶茶 | zhenzhu naicha | bubble tea |
 | 星期 | xing qi | week |
 | 然后 | ran hou | then |
-| 读 | du | to read |
 | 哪 | Nǎ | which?, where?, how? |
 | 饭 | fan | food, meal, cooked rice |
 | 孩 | hai | child, baby |
@@ -690,7 +644,6 @@
 | 哥们儿 | Gēmen er | dude/dudes | Imagine a group of vultures (**gamar**) playing in a band and being very **bro** |
 | 美国 | meiguo | america, US |
 | 吵 | chao | noisy |
-| 安静 | anjing | quiet |
 | 咬 | yao | to bite |
 | 德国 | deguo | germany |
 | 九点半 | Jiǔ diǎn bàn | half past 9 |
@@ -701,8 +654,6 @@
 | 分钟 | fenzhong | minute |
 | 昨天 | zuotian | yesterday |
 | 比 | bi | to compare, to liken |
-| 长 | zhang | long |
-| 比较 | bijiao | relatively |
 | 帅 | shuai | handsome |
 | 硬 | ying | hard, solid |
 | 无聊 | wuliao | boring |
@@ -798,19 +749,12 @@
 | 微信 | Wēixìn | wechat |
 | 酒吧 | Jiǔbā | bar |
 | 订 | dìng | to book, to reserve |
-| 年轻 | nianqing | young |
 | 坚果 | Jiānguǒ | nut |
 | 开心果 | Kāixīn guǒ | pistachio |
 | 属相 | Shǔxiang | zodiac, animal sign |
 | 继续 | jixu | to continue |
-| 香蕉 | xian jiao | banana |
 | 玛芬 | Mǎ fēn | muffin |
-| 麋鹿 | Mílù | moose |
-| 海豹 | Hǎibào | seal |
-| 排队 | Páiduì | line up, get into a queue |
 | 好榜样 | Hǎo bǎngyàng | Role model |
-| 老公    | lǎogōng | husband |
-| 老婆    | lǎopó | wife |
 | 排队 | Páiduì | line up, get into a queue |
 | 麋鹿 | Mílù | moose |
 | 海豹 | Hǎibào | seal |
@@ -826,3 +770,484 @@
 | 老婆    | lǎopó | wife |
 | 老家    | lǎojiā | hometown |
 | 洗碗    | xǐwǎn | to wash dishes |
+| 一边 | yībiān | while; at the same time |
+| 音乐 | yīnyuè | music |
+| 中文 | Zhōngwén | Chinese (language) |
+| 认真 | rènzhēn | serious; earnest |
+| 啊 | a | a particle to express affirmation, exclamation, etc. |
+| 当然 | dāngrán | of course |
+| 记得 | jìdé | remember |
+| 以前 | yǐqián | before; previously |
+| 游戏 | yóuxì | game |
+| 一样 | yīyàng | the same; alike |
+| 部分 | Bùfèn | Part |
+| 词语 | Cíyǔ | Word, phrase, vocabulary |
+| 语法 | Yǔfǎ | Grammar |
+| 有意思 | Yǒuyìsi | interesting |
+| 活动 | Huódòng | activity |
+| 菜 | Cài | dish, meal |
+| 张      | zhāng     | (measure word for flat objects) |
+| 附近    | fùjìn     | nearby      |
+| 公园    | gōngyuán  | park        |
+| 总是    | zǒngshì   | always      |
+| 报纸    | bàozhǐ    | newspaper   |
+| 纸      | zhǐ       | paper       |
+| 必须    | bìxū    | must, have to |
+| 参加    | Cānjiā  | to join, to participate |
+| 会议    | Huìyì   | meeting |
+| 刮风    | guāfēng | windy |
+| 小心    | xiǎoxīn | to be careful |
+| 如果    | rúguǒ   | if |
+| 一般    | yībān   | generally, usually    |
+| 环境    | huánjìng| environment  |
+| 又...又...    | yòu...yòu... | both...and... |
+| 越...越...    | yuè...yuè... | the more...the more... |
+| 有名    | yǒumíng | famous       |
+| 季节    | jìjié   | season       |
+| 重要    | zhòngyào | important   |
+| 冬天    | dōngtiān | winter      |
+| 北方    | běifāng  | north part of the country       |
+| 锻炼 | duànliàn | to exercise |
+| 段 | duàn | section, period |
+| 几乎 | jīhū | almost |
+| 特别 | tèbié | especially |
+| 除了...还... | chúle...hái... | besides...also... |
+| 体育 | tǐyù | physical education, sports |
+| 灯      | dēng    | lamp, light |
+| 像      | xiàng   | to be like, to resemble |
+| 角      | jiǎo    | jiao (1/10 of a yuan) |
+| 分      | fēn     | fen (1/100 of a yuan) |
+| 礼物    | lǐwù    | gift      |
+| 又      | yòu     | again (for action which has happened in the past) |
+| 关系    | guānxi  | relationship |
+| 再 | zài | again (for action which will happen in the future) |
+| 节日    | jiérì   | holiday, festival |
+| 选择    | xuǎnzé  | to choose |
+| 难      | nán     | difficult |
+| 了解    | liǎojiě | to understand, to know |
+| 容易    | róngyì  | easy |
+| 疼      | téng     | pain, ache  |
+| 发烧    | fāshāo   | to have a fever |
+| 一会    | yīhuǐ    | a little while |
+| 检查    | jiǎnchá  | to check, to examine |
+| 担心    | dānxīn   | to worry    |
+| 秋季    | qiūjì    | autumn, fall |
+| 变化    | biànhuà  | change      |
+| 注意    | zhùyì    | to pay attention |
+| 向      | xiàng  | towards, to |
+| 请假    | qǐngjià | to ask for leave |
+| 帮(忙)  | bāng (máng) | to help |
+| 超市    | chāoshì | supermarket |
+| 饮料    | yǐnliào | drink, beverage |
+| 哭 | kū | cry |
+| 遇到 | yùdào | encounter |
+| 完成 | wánchéng | complete |
+| 努力 | nǔlì | work hard |
+| 提高 | tígāo | improve |
+| 试 | shì | try |
+| 节目 | jiémù | program |
+| 愿意 | yuànyì | willing |
+| 其实 | qíshí | actually |
+| 结束 | jiéshù | end |
+| 或者 | huòzhě | or (not for questions) |
+| 同事 | tóngshì | colleague |
+| 见面 | jiànmiàn | to meet |
+| 复习 | fùxí | to review |
+| 迟到 | chídào | to be late |
+| 骑 | qí | to ride |
+| 更 | gèng | more/even more |
+| 行李箱 | xínglǐxiāng | suitcase |
+| 四川 | Sìchuān | Sichuan |
+| 太阳 | tàiyáng | sun |
+| 伞 | sǎn | umbrella |
+| 南方 | Nánfāng | The south part of the country |
+| 简单 | jiǎndān | simple |
+| 办公室 | bàngōngshì | office |
+| 地图 | dìtú | map |
+| 发现 | fāxiàn | to discover |
+| 地铁 | dìtiě | subway |
+| 方便 | fāngbiàn | convenient |
+| 站 | zhàn | station |
+| 东北边 | dōngběibiān | northeast side |
+| 中间 | zhōngjiān | middle |
+| 银行 | yínháng | bank |
+| 关 | guān | to close, to turn off |
+| 米 | mǐ | meter |
+| 街道 | jiēdào | street |
+| 西边 | xībiān | west side |
+| 换 | huàn | to change |
+| 国家 | guójiā | country |
+| 一直 | yìzhí | continuously, always |
+| 双 | shuāng | pair |
+| 皮鞋 | píxié | leather shoes |
+| 年轻 | niánqīng | young |
+| 上网 | shàngwǎng | to surf the internet |
+| 衬衫 | chènshān | shirt |
+| 帽子 | màozi | hat |
+| 解决 | jiějué | to solve |
+| 拿 | ná | to take |
+| 年级 | niánjí | grade, year (in school) |
+| 数学 | shùxué | mathematics |
+| 黑板 | hēibǎn | blackboard |
+| 明白 | míngbái | to understand |
+| 班 | bān | class |
+| 差 | chà | bad, poor，to be short of, to lack |
+| 为了 | wèile | in order to, for the sake of |
+| 听懂 | tīngdǒng | to understand (by listening) |
+| 前面 | qiánmiàn | front |
+| 回答 | huídá | to answer |
+| 黄河 | Huánghé | Yellow River |
+| 历史 | lìshǐ | history |
+| 聪明 | cōngmíng | clever, intelligent |
+| 文化 | wénhuà | culture |
+| 讲 | jiǎng | to speak, to tell |
+| 故事 | gùshi | story |
+| 夏 | xià | summer |
+| 兴趣 | xìngqù | interest |
+| 练习 | liànxí | exercise (learning) |
+| 花 | huā | flower |
+| 鸟 | niǎo | bird |
+| 马 | mǎ | horse |
+| 叔叔 | shūshu | uncle (father's younger brother) |
+| 位 | wèi | position, place, seat (also a polite measure word for people) |
+| 教 | jiāo | to teach |
+| 热情 | rèqíng | enthusiasm, passionate |
+| 视频 | shìpín | video |
+| 课文 | kèwén | text (of a lesson) |
+| 读 | dú | to read |
+| 船 | chuán | boat |
+| 习惯 | xíguàn | habit, to be accustomed to |
+| 蓝 | lán | blue |
+| 树 | shù | tree |
+| 草 | cǎo | grass |
+| 城市 | chéngshì | city |
+| 越 | yuè | to exceed, to surpass |
+| 甜 | tián | sweet |
+| 胖 | pàng | fat |
+| 公斤 | gōngjīn | kilogram |
+| 离开 | líkāi | to leave |
+| 房间 | fángjiān | room |
+| 上个 | shàng gè | last, previous  (one) |
+| 奶奶 | nǎinai | grandmother (father's side) |
+| 多么 | duōme | how (wonderful, etc.), what (a great idea) |
+| 长 | cháng/zhǎng | long (cháng), to grow (zhǎng) |
+| 别人 | biérén | other people |
+| 极 | jí | extremely |
+| 脸 | liǎn | face |
+| 鼻子 | bízi | nose |
+| 嘴 | zuǐ | mouth |
+| 可爱 | kě'ài | cute, adorable |
+| 同意 | tóngyì | to agree |
+| 老 | lǎo | old |
+| 个子     | gèzi      | height, stature  |
+| 矮       | ǎi        | short (height)   |
+| 头发     | tóufa     | hair             |
+| 条       | tiáo      | measure word for long, thin objects (e.g., pants, rivers, etc.) |
+| 绿       | lǜ        | green            |
+| 裙子     | qúnzi     | skirt            |
+| 忘记     | wàngjì    | to forget        |
+| 留学     | liúxué    | to study abroad  |
+| 留学生   | liúxuéshēng | international student |
+| 日本 | rìběn | Japan |
+| 比较    | bǐjiào | comparatively, relatively |
+| 还是    | háishì | still, or (in questions) |
+| 关心    | guānxīn | to care, to be concerned about |
+| 空调    | kōngtiáo | air conditioner |
+| 冰箱    | bīngxiāng | refrigerator |
+| 需要    | xūyào | to need, to require |
+| 客人    | kèrén | guest |
+| 邻居    | línjū | neighbor |
+| 搬      | bān    | to move (objects) |
+| 旧      | jiù    | old, used, previous |
+| 口      | kǒu    | mouth, mouthful, opening |
+| 刷牙    | shuāyá  | to brush teeth |
+| 除了    | chúle  | besides, apart from |
+| 电梯    | diàntī  | elevator |
+| 欢迎    | huānyíng | to welcome |
+| 层      | céng   | floor, level |
+| 房子 | fángzi | house |
+| 渴 | kě | thirsty |
+| 楼 | lóu | building/floor |
+| 聊天 | liáotiān | to chat |
+| 安静 | ānjìng | quiet |
+| 舒服 | shūfu | comfortable |
+| 面包 | miànbāo | bread |
+| 尝 | cháng | to taste |
+| 把 | bǎ | (particle marking the foll owing noun as a direct object) |
+| 打扫 | dǎsǎo | to clean |
+| 干净 | gānjìng | clean |
+| 香蕉 | xiāngjiāo | banana |
+| 半 | bàn | half |
+| 饱 | bǎo | full (from eating) |
+| 盘子 | pánzi | plate |
+| 叫外卖 | jiào wàimài | to order takeout |
+| 饿 | è | hungry |
+| 啤酒 | píjiǔ | beer |
+| 菜单 | càidān | menu |
+| 奇怪 | qíguài | strange |
+| 马上 | mǎshàng | immediately, at once |
+| 还 | huán | to return |
+| 句子 | jùzi | sentence |
+| 花 | huā | to spend |
+| 打车 | dǎchē | to take a taxi |
+| 阿姨    | āyí     | aunt       |
+| 坏      | huài    | bad        |
+| 刻      | kè      | measure word, quarter (of an hour) |
+| 辆      | liàng   | measure word for vehicles |
+| 司机    | sījī    | driver     |
+| 出租车 | chūzū chē | taxi |
+| 眼镜 | Yǎnjìng | glasses |
+| 摩托车 | Mótuō chē | motorcycle |
+| 面包车 | Miànbāo chē | van |
+| 皮卡车 | Píkǎ chē | pickup truck |
+| 滑板 | Huábǎn | skateboard |
+| 救护车 | Jiùhù chē | ambulance |
+| 消防车 | Xiāofáng chē | fire engine |
+| 消防 | Xiāofáng | fire fighting |
+| 手包       | shǒu bāo    | purse, handbag               |
+| 背包       | bèi bāo     | backpack                    |
+| 挎包       | kuà bāo     | shoulder bag                |
+| 锁         | suǒ         | lock                        |
+| 自助       | zì zhù      | self-service                |
+| 香菜       | xiāng cài   | cilantro                    |
+| 海带       | hǎi dài     | kelp                        |
+| 海藻       | hǎi zǎo     | seaweed                     |
+| 春卷       | chūn juǎn   | spring roll                 |
+| 卷         | juǎn        | roll                        |
+| 虾         | xiā         | shrimp                      |
+| 背         | bèi         | back                        |
+| 商业       | shāng yè    | commerce, business          |
+| 投资       | tóu zī      | investment                  |
+| 项目       | xiàng mù    | project                     |
+| 闭嘴       | bì zuǐ      | shut up                     |
+| 律师       | lǜ shī      | lawyer                      |
+| 普及       | pǔ jí       | popularize                  |
+| 自律       | zì lǜ       | self-discipline             |
+| 羽毛球     | yǔ máo qiú  | badminton                   |
+| 便利商店   | biàn lì shāng diàn | convenience store   |
+| 服务       | fú wù       | service                     |
+| 不同的     | bù tóng de  | different                   |
+| 日常       | rì cháng    | daily                       |
+| 总共       | zǒng gòng   | total                       |
+| 会员       | huì yuán    | member                      |
+| 收据       | shōu jù     | receipt                     |
+| 介绍       | jiè shào    | introduce                   |
+| 阶         | jiē         | step                        |
+| 阳光       | yáng guāng  | sunshine                    |
+| 宾语       | bīn yǔ      | object (grammar)            |
+| 石头       | shí tou     | stone                       |
+| 赞         | zàn         | like, approve               |
+| 话题       | huà tí      | topic                       |
+| 反馈       | fǎn kuì     | feedback                    |
+| 期待       | qī dài      | expect, look forward to     |
+| 线路       | xiàn lù     | route                       |
+| 草丛       | cǎo cóng    | bush                        |
+| 复杂       | fù zá       | complicated                 |
+| 提前       | tí qián     | ahead of time               |
+| 安检       | ān jiǎn     | security check              |
+| 屏幕       | píng mù     | screen                      |
+| 票         | piào        | ticket                      |
+| 硬币       | yìng bì     | coin                        |
+| 支付       | zhī fù      | payment                     |
+| 交通卡     | jiāo tōng kǎ | transportation card        |
+| 二维码     | èr wéi mǎ   | QR code                     |
+| 狗屁       | gǒu pì      | nonsense                    |
+| 狗屎       | gǒu shǐ     | dog poop                    |
+| 皮肤       | pí fū       | skin                        |
+| 喉咙       | hóu lóng    | throat                      |
+| 收音机     | shōu yīn jī | radio                       |
+| 广播节目   | guǎng bō jié mù | radio program           |
+| 耳机       | ěr jī       | earphones                   |
+| 机器       | jī qì       | machine                     |
+| 计算器     | jì suàn qì  | calculator                  |
+| 奶油       | nǎi yóu     | butter                      |
+| 洗碗机     | xǐ wǎn jī   | dishwasher                  |
+| 洗衣机     | xǐ yī jī    | washing machine             |
+| 放屁       | fàng pì     | fart                        |
+| X年前      | X nián qián | X years ago                 |
+| 不同意     | bù tóng yì  | disagree                    |
+| 稳定的     | wěn dìng de | stable                      |
+| 纹身       | wén shēn    | tattoo                      |
+| 油         | yóu         | oil                         |
+| 限制       | xiàn zhì    | limit                       |
+| 鬼         | guǐ         | ghost                       |
+| 死         | sǐ          | die                         |
+| 臭         | chòu        | smelly                      |
+| 输入       | shū rù      | input                       |
+| 输出       | shū chū     | output                      |
+| 健身自行车 | jiàn shēn zì xíng chē | exercise bike |
+| 健身房     | jiàn shēn fáng | gym                    |
+| 户外的     | hù wài de   | outdoor                     |
+| 户外健身房 | hù wài jiàn shēn fáng | outdoor gym       |
+| 频道       | pín dào     | channel                     |
+| 胡椒       | hú jiāo     | pepper                      |
+| 使用       | shǐ yòng    | use                         |
+| 重的       | zhòng de    | heavy                       |
+| 懒         | lǎn         | lazy                        |
+| 分         | fēn         | point                       |
+| 满分       | mǎn fēn     | full score                  |
+| 多多少少   | duō duō shǎo shǎo | more or less        |
+| 骄傲       | jiāo ào     | proud                       |
+| 面团       | miàn tuán   | dough                       |
+| 完全       | wán quán    | complete                    |
+| 压力       | yā lì       | pressure                    |
+| 亮         | liàng       | bright                      |
+| 假         | jiǎ         | fake                        |
+| 本来       | běn lái     | originally                  |
+| 帐篷       | zhàng péng  | tent                        |
+| 大便       | dà biàn     | defecate                    |
+| 小便       | xiǎo biàn   | urinate                     |
+| 毛巾       | máo jīn     | towel                       |
+| 老六       | lǎo liù     | cunning one                 |
+| 中秋节     | zhōng qiū jié | Mid-Autumn Festival       |
+| 地址       | dì zhǐ      | address                     |
+| 月饼       | yuè bǐng    | mooncake                    |
+| 拖拉机     | tuō lā jī   | tractor                     |
+| 地毯       | dì tǎn      | carpet                      |
+| 部门       | bù mén      | department                  |
+| 正宗       | zhèng zōng  | authentic                   |
+| 胃         | wèi         | stomach                     |
+| 至少       | zhì shǎo    | at least                    |
+| 而且       | ér qiě      | moreover                    |
+| 鸡爪       | jī zhuǎ     | chicken feet                |
+| 独立日     | dú lì rì    | Independence Day            |
+| 内向       | nèi xiàng   | introverted                 |
+| 差不多     | chà bù duō  | almost, nearly              |
+| 拌         | bàn         | mix, stir                   |
+| 疫情       | yì qíng     | epidemic                    |
+| 新冠病毒   | xīn guān bìng dú | COVID-19                |
+| 病毒       | bìng dú     | virus                       |
+| 浪费       | làng fèi    | waste                       |
+| 蒸         | zhēng       | steam                       |
+| 没错       | méi cuò     | that's right                |
+| 规矩       | guī ju      | rule                        |
+| 陌生人     | mò shēng rén | stranger                   |
+| 煎         | jiān        | pan-fry                     |
+| 煮         | zhǔ         | boil                        |
+| 炖         | dùn         | stew                        |
+| 答辩       | dá biàn     | defense (in academia)       |
+| 葡萄       | pú táo      | grape                       |
+| 哑巴       | yǎ bā       | mute                        |
+| 算命       | suàn mìng   | fortune telling             |
+| 恨         | hèn         | hate                        |
+| 泼妇       | pō fù       | shrew                       |
+| 股票       | gǔ piào     | stock                       |
+| 专业       | zhuān yè    | profession                  |
+| 室友       | shì yǒu     | roommate                    |
+| 肌肉       | jī ròu      | muscle                      |
+| 费用       | fèi yòng    | expense                     |
+| 酒店       | jiǔ diàn    | hotel                       |
+| 浪漫       | làng màn    | romantic                    |
+| 梦         | mèng        | dream                       |
+| 巴西       | Bā xī       | Brazil                      |
+| 西兰花     | xī lán huā  | broccoli                    |
+| 柔软       | róu ruǎn    | soft                        |
+| 秘密       | mì mì       | secret                      |
+| 世界       | shì jiè     | world                       |
+| 魔鬼       | mó guǐ      | devil                       |
+| 国际       | guó jì      | international               |
+| 挖         | wā          | dig                         |
+| 老话       | lǎo huà     | old saying                  |
+| 瞎         | xiā         | blind                       |
+| 一对       | yī duì      | a pair                      |
+| 肉桂       | ròu guì     | cinnamon                    |
+| 肉桂卷     | ròu guì juǎn | cinnamon roll              |
+| 香烟       | xiāng yān   | cigarette                   |
+| 影子       | yǐng zi     | shadow                      |
+| 窗帘       | chuāng lián | curtain                     |
+| 窗户       | chuāng hù   | window                      |
+| 魔法       | mó fǎ       | magic                       |
+| 纸巾       | zhǐ jīn     | tissue                      |
+| 牛排       | niú pái     | steak                       |
+| 烤鸭       | kǎo yā      | roast duck                  |
+| 火腿       | huǒ tuǐ     | ham                         |
+| 生         | shēng       | raw                         |
+| 龙虾       | lóng xiā    | lobster                     |
+| 螃蟹       | páng xiè    | crab                        |
+| 炒饭       | chǎo fàn    | fried rice                  |
+| 肠         | cháng       | sausage                     |
+| 薯条       | shǔ tiáo    | french fries                |
+| 海鲜       | hǎi xiān    | seafood                     |
+| 金枪鱼     | jīn qiāng yú | tuna                       |
+| 生蚝       | shēng háo   | oyster                      |
+| 蚝油       | háo yóu     | oyster sauce                |
+| 豆芽       | dòu yá      | bean sprout                 |
+| 菠菜       | bō cài      | spinach                     |
+| 白菜       | bái cài     | Chinese cabbage             |
+| 花菜       | huā cài     | cauliflower                 |
+| 笋         | sǔn         | bamboo shoot                |
+| 茄子       | qié zi      | eggplant                    |
+| 馒头       | mán tou     | steamed bun                 |
+| 粥         | zhōu        | porridge                    |
+| 米线       | mǐ xiàn     | rice noodles                |
+| 马拉松     | mǎ lā sōng  | marathon                    |
+| 黄油       | huáng yóu   | butter                      |
+| 燕麦       | yàn mài     | oats                        |
+| 吐司       | tǔ sī       | toast                       |
+| 薯片       | shǔ piàn    | potato chips                |
+| 芝士       | zhī shì     | cheese                      |
+| 派         | pài         | pie                         |
+| 曲奇       | qǔ qí       | cookie                      |
+| 火鸡       | huǒ jī      | turkey                      |
+| 法棍       | fǎ gùn      | baguette                    |
+| 甜甜圈     | tián tián quān | donut                     |
+| 罐头       | guàn tóu    | canned food                 |
+| 牛角包     | niú jiǎo bāo | croissant                  |
+| 果酱       | guǒ jiàng   | jam                         |
+| 芝士蛋糕   | zhī shì dàn gāo | cheesecake               |
+| 生菜       | shēng cài   | lettuce                     |
+| 蒜         | suàn        | garlic                      |
+| 橄榄       | gǎn lǎn     | olive                       |
+| 豆角       | dòu jiǎo    | green beans                 |
+| 面粉       | miàn fěn    | flour                       |
+| 芦笋       | lú sǔn      | asparagus                   |
+| 红薯       | hóng shǔ    | sweet potato                |
+| 橙子       | chéng zi    | orange                      |
+| 梨         | lí          | pear                        |
+| 菠萝       | bō luó      | pineapple                   |
+| 樱桃       | yīng táo    | cherry                      |
+| 牛油果     | niú yóu guǒ | avocado                    |
+| 无花果     | wú huā guǒ  | fig                         |
+| 奇异果     | qí yì guǒ   | kiwi                        |
+| 荔枝       | lì zhī      | lychee                      |
+| 火龙果     | huǒ lóng guǒ | dragon fruit              |
+| 芒果       | máng guǒ    | mango                       |
+| 榴莲       | liú lián    | durian                      |
+| 红枣       | hóng zǎo    | red date                    |
+| 石榴       | shí liú     | pomegranate                 |
+| 柚子       | yòu zi      | pomelo                      |
+| 饮品       | yǐn pǐn     | beverage                    |
+| 苏打水     | sū dá shuǐ  | soda water                  |
+| 白葡萄酒   | bái pú táo jiǔ | white wine                |
+| 白酒       | bái jiǔ     | Chinese liquor              |
+| 葡萄干     | pú táo gān  | raisin                      |
+| 麦         | mài         | wheat                       |
+| 全麦       | quán mài    | whole wheat                 |
+| 棕         | zōng        | brown                       |
+| 攀岩       | pān yán     | rock climbing               |
+| 内衣       | nèi yī      | underwear                   |
+| 内裤       | nèi kù      | underpants                  |
+| 胸罩       | xiōng zhào  | bra                         |
+| 洗手液     | xǐ shǒu yè  | hand sanitizer              |
+| 情人       | qíng rén    | lover                       |
+| 按摩       | àn mó       | massage                     |
+| 按摩枪     | àn mó qiāng | massage gun                 |
+| 平板电脑   | píng bǎn diàn nǎo | tablet                 |
+| 电视柜     | diàn shì guì | TV cabinet                 |
+| 茶几       | chá jī      | coffee table                |
+| 游戏机     | yóu xì jī   | game console                |
+| 花瓶       | huā píng    | vase                        |
+| 茶壶       | chá hú      | teapot                      |
+| 鞋架       | xié jià     | shoe rack                   |
+| 衣架       | yī jià      | clothes hanger              |
+| 菜刀       | cài dāo     | kitchen knife               |
+| 煎锅       | jiān guō    | frying pan                  |
+| 蒸锅       | zhēng guō   | steamer                     |
+| 烤箱       | kǎo xiāng   | oven                        |
+| 微波炉     | wēi bō lú   | microwave oven              |
+| 洗衣       | xǐ yī       | laundry                     |
+| 预订       | yù dìng     | reservation                 |
+| 铺床       | pū chuáng   | make the bed                |
+| 充电线     | chōng diàn xiàn | charging cable          |
+| 充电       | chōng diàn  | charge                      |
+| 玩偶       | wán ǒu      | stuffed toy                 |
